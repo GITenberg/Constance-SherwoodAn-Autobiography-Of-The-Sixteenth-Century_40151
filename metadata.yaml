@@ -1,0 +1,32 @@
+_repo: Constance-SherwoodAn-Autobiography-Of-The-Sixteenth-Century_40151
+_version: 0.1.0
+alternative_title: 'Constance Sherwood: An Autobiography of the 16th Century'
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fullerton, Georgiana
+    aliases:
+    - Fullerton, Georgiana Charlotte Leveson-Gower
+    - Leveson-Gower, Georgiana Charlotte
+    - Fullerton, Lady Georgiana
+    birthdate: 1812
+    deathdate: 1885
+    gutenberg_agent_id: '2774'
+    url: http://www.gutenberg.org/2009/agents/2774
+    wikipedia: http://en.wikipedia.org/wiki/Georgiana_Fullerton
+description: ''
+gutenberg_issued: '2012-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40151'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Great Britain -- History -- Elizabeth, 1558-1603 -- Fiction'
+title: 'Constance Sherwood: An Autobiography of the Sixteenth Century'
+url: http://www.gutenberg.org/ebooks/40151
